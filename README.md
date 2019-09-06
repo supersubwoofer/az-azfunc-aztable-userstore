@@ -7,7 +7,7 @@ Thoughtful consideration is necessary for specific needs of an application! Micr
 [Azure Storage Table Design Guide: Designing Scalable and Performant Tables]
 
 
-## Local Testing for Azure Table Storage
+## Local Emulator for Azure Table Storage
 - [Windows - Azure Storage Emulator]
 - [Mac - Azurite legacy-master]
 
