@@ -12,6 +12,6 @@ Thoughtful consideration is necessary for specific needs of an application! Micr
 - [Mac - Azurite legacy-master]
 
 
-[Azure Storage Emulator]: https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=%2fazure%2fstorage%2fblobs%2ftoc.json
+[Windows - Azure Storage Emulator]: https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=%2fazure%2fstorage%2fblobs%2ftoc.json
 [Mac - Azurite legacy-master]: https://github.com/Azure/Azurite/tree/legacy-master
 [Azure Storage Table Design Guide: Designing Scalable and Performant Tables]: https://docs.microsoft.com/en-us/azure/cosmos-db/table-storage-design-guide
